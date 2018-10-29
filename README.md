@@ -52,7 +52,10 @@ Es importante resaltar en este punto que una de las causas por las cuales los ap
 Es así como se evidencia una gran oportunidad si consideramos la posible integración de los servicios actualmente ofrecidos por el Banco y otras plataformas e información que puede ser recaudada.
 
 
-Imagen	Descripción
+![alt text](https://github.com/anarua1203/Dataton_BC_2018/blob/master/Imagenes/comportamiento_mes.jpg)
+
+
+Descripción
  
 	Histórico de datos: por medio de esta aplicación es posible brindar al usuario (quien en un principio no deberá ingresar ningún tipo de información relativa a sus gastos e ingresos) la información de comportamiento financiero para diferentes periodos. Adicionalmente es posible brindarle información de la distribución de sus gastos y visualizarlos en el aplicativo.
 
