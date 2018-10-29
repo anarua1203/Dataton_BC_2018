@@ -29,11 +29,12 @@ Se debe tener presente también que a partir del entendimiento del negocio se pl
 # Desarrollo
 
 El reto que se tiene es lograr clasificar las transacciones en una serie de categorías definidas por el banco, para lo cual el proceso que se seguirá es:
-•	Categorización de las transacciones, para lo cual se utilizarán varias metodologías asociadas a minería de texto para asignar una categoría a cada transacción. Para esto se utilizarán metodologías como: Aplicación de relación campo categoría (específicamente para el campo "subsector"), Clasificación de transacciones que no tienen información, Web Scraping para obtener categorías de páginas que tengan información relevante, y uso de matrices TF para aplicarlas bolsas de palabras al set de datos, y finalmente clusterización.
+
+•	**Categorización de las transacciones**, para lo cual se utilizarán varias metodologías asociadas a minería de texto para asignar una categoría a cada transacción. Para esto se utilizarán metodologías como: Aplicación de relación campo categoría (específicamente para el campo "subsector"), Clasificación de transacciones que no tienen información, Web Scraping para obtener categorías de páginas que tengan información relevante, y uso de matrices TF para aplicarlas bolsas de palabras al set de datos, y finalmente clusterización.
 
 Una vez clasificados los 12M de registros iniciales según las categorías definidas (se partió de las categorías propuestas por Bancolombia, y se agregaron dos adicionales), se procederá a generar un modelo que permita clasificar nuevas transacciones que entregue el banco, de tal forma que el proceso pueda llevarse a producción sobre nuevos registros, y se pueda generar valor tanto para el banco como para los clientes.
 
-•	Categorización de los clientes, para lo cual se hará uso de la información de los clientes para realizar un proceso de correlación que indique qué tipos de clientes son más propensos a realizar cada tipo de transacción, es decir, no analizar solo cuáles atributos son relevantes frente a cada clasificación, sino las categorías específicas de cada atributo.
+•	**Categorización de los clientes**, para lo cual se hará uso de la información de los clientes para realizar un proceso de correlación que indique qué tipos de clientes son más propensos a realizar cada tipo de transacción, es decir, no analizar solo cuáles atributos son relevantes frente a cada clasificación, sino las categorías específicas de cada atributo.
 
 Esta información se utilizará también para crear clusters que permitan agruparlos y a partir de ello poder implementar modelos que le permitan al banco generar valor mediante estrategias como cross-selling, y al cliente tener una base de comparación sobre la cual pueda recibir recomendaciones si su comportamiento de gasto es superior al de personas con características similares.
 
