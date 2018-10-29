@@ -64,7 +64,7 @@ Es así como se evidencia una gran oportunidad si consideramos la posible integr
   **Perfilamiento de clientes:** en ocasiones, la mejor manera de aprender es viendo como otras personas lo realizan. Es así pues, como basado en la información de los clientes y en la implementación de diferentes técnicas de Inteligencia artificial, machine learning, entre otras, es posible realizar una comparación del usuario, con otras personas que tengan características similares a las suyas e incluso tener acceso a diferentes  combinaciones  de presupuestos que le puedan orientar.
  **Sueños:** reconocer en los clientes sus metas y aspiraciones mayores siempre será importante. Este tipo de aplicativos, permite tener una relación de mayor cercanía con el cliente, quién verá en el banco, más que el lugar en el cual deposita su dinero, un aliado estratégico.
 	
-	**Presupuesto:** Definición y seguimiento. 
+**Presupuesto:** Definición y seguimiento. 
 
 
 	
