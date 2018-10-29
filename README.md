@@ -23,3 +23,14 @@ Para la solución a este reto se utilizará la metodología CRISP-DM, mediante l
 	Despliegue
 	
 Se debe tener presente también que a partir del entendimiento del negocio se plantearán varias soluciones diferentes, que puedan aportar desde diferentes perspectivas tanto a los clientes del banco (pagadores) como al banco por sí mismo.
+
+# PFM APP (PROACTIVE FINANCIAL MANAGEMENT)
+
+Basado en los resultados de la categorización, proporcionamos servicios que favorecen la adhesión a aplicativos PFM.
+Los modelos desarrollados permiten la implementación de una amplia gama de casos de uso de PFM.
+La funcionalidad incluye (ejemplos):
+
+* Históricos: muestra el comportamiento histórico de las transacciones del usuario por periodos de tiempo flexibles
+* Gastos por categorías:  datos de gastos que se utilizarán en gráficos circulares
+* División de transacciones en varias categorías: asignación de categoría a una transacción (por ejemplo, pago de pensión educativa, pago de servicios públicos, etc.) una vez finalizado el pago, de esta manera el usuario no tendrá que ingresar los datos de manera manual sino que estos se irán procesesando.
+
