@@ -55,14 +55,14 @@ Es así como se evidencia una gran oportunidad si consideramos la posible integr
 ![alt text](https://github.com/anarua1203/Dataton_BC_2018/blob/master/Imagenes/comportamiento_mes.jpg)
 
 
-##Descripción
+## Descripción
  
-	**Histórico de datos:** por medio de esta aplicación es posible brindar al usuario (quien en un principio no deberá ingresar ningún tipo de información relativa a sus gastos e ingresos) la información de comportamiento financiero para diferentes periodos. Adicionalmente es posible brindarle información de la distribución de sus gastos y visualizarlos en el aplicativo.
+**Histórico de datos:** por medio de esta aplicación es posible brindar al usuario (quien en un principio no deberá ingresar ningún tipo de información relativa a sus gastos e ingresos) la información de comportamiento financiero para diferentes periodos. Adicionalmente es posible brindarle información de la distribución de sus gastos y visualizarlos en el aplicativo.
 
- 	Cada uno de los movimientos que se hagan ya sea vía medio de pago Redeban o PSE, pueden ser categorizados y dispuestos para hacer uno de ellos mendiante los diferentes modelos y aplicaciones ya expuestos
+	 Cada uno de los movimientos que se hagan ya sea vía medio de pago Redeban o PSE, pueden ser categorizados y dispuestos para hacer uno de ellos mendiante los diferentes modelos y aplicaciones ya expuestos
 
-  	**Perfilamiento de clientes:** en ocasiones, la mejor manera de aprender es viendo como otras personas lo realizan. Es así pues, como basado en la información de los clientes y en la implementación de diferentes técnicas de Inteligencia artificial, machine learning, entre otras, es posible realizar una comparación del usuario, con otras personas que tengan características similares a las suyas e incluso tener acceso a diferentes  combinaciones  de presupuestos que le puedan orientar.
- 	**Sueños:** reconocer en los clientes sus metas y aspiraciones mayores siempre será importante. Este tipo de aplicativos, permite tener una relación de mayor cercanía con el cliente, quién verá en el banco, más que el lugar en el cual deposita su dinero, un aliado estratégico.
+  **Perfilamiento de clientes:** en ocasiones, la mejor manera de aprender es viendo como otras personas lo realizan. Es así pues, como basado en la información de los clientes y en la implementación de diferentes técnicas de Inteligencia artificial, machine learning, entre otras, es posible realizar una comparación del usuario, con otras personas que tengan características similares a las suyas e incluso tener acceso a diferentes  combinaciones  de presupuestos que le puedan orientar.
+ **Sueños:** reconocer en los clientes sus metas y aspiraciones mayores siempre será importante. Este tipo de aplicativos, permite tener una relación de mayor cercanía con el cliente, quién verá en el banco, más que el lugar en el cual deposita su dinero, un aliado estratégico.
 	
 	**Presupuesto:** Definición y seguimiento. 
 
